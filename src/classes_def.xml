@@ -16,4 +16,9 @@
     
  <class name="MixingInputConfig" class_version="0"/>
  <class name="std::vector<MixingInputConfig>"/> 
+ 
+ <class name="FillInfo" class_version="0">
+   <field name="m_bunchConfiguration1" mapping="blob"/>
+   <field name="m_bunchConfiguration2" mapping="blob"/>
+ </class>  
 </lcgdict>  
